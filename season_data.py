@@ -80,21 +80,19 @@ def season_data(pid, player_code):
     # add club id to dataframe of player
     renamed["Club_id"] = np.zeros(len(renamed))
 
-    if len(href) == len(renamed):
+    if len(hrefs) == len(renamed):
         for index, href in enumerate(hrefs):
             club_id = href.split("/")[4]
             renamed["Club_id"][index] = club_id
 
-
     # add competition type to dataframe of player
     renamed["League_type"] = np.zeros(len(renamed))
 
-    if len(href_league) == len(renamed):
+    if len(hrefs_league) == len(renamed):
         for index, href_league in enumerate(hrefs_league):
             tournament_type = href_league.split("/")[3]
             print(tournament_type)
             renamed["League_type"][index] = tournament_type
-        
 
     columns_to_replace = [
         "Games",
@@ -131,15 +129,9 @@ def season_data(pid, player_code):
     )
 
     # SEASON
-    for i, row in renamed.iterrows():
-        print(row["Season"].split("/")[0])
-        if "/" in row["Season"]:
-            renamed.at[i, "Season"] = row["Season"].split("/")[0]
-        else:
-            renamed.at[i, "Season"] = int(row["Season"][-2:])
-
-    # renamed["Season"] = renamed["Season"].str.split("/").str.get(0).astype(int)
-
+    renamed["Season"] = renamed["Season"].apply(
+        lambda x: int("20" + x.split("/")[0]) if "/" in x else int(x[-4:])
+    )
     # print(renamed)
     return renamed
 
@@ -149,7 +141,7 @@ df_players = pd.read_csv("./archive/players.csv")
 
 df = df_players[["player_id", "player_code"]]
 
-df2 = df[:15]
+df2 = df[:4]
 
 start_time = time.time()
 appended_data = []

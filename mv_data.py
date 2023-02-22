@@ -90,13 +90,12 @@ def mv_data(pid, player_code):
         "Nov",
         "Dec",
     ]
-
+    print(mv_df)
     mv_df["Season"] = mv_df["Season"].apply(
         lambda x: int(x[-4:]) if months.index(x[0:3]) > 6 else int(x[-4:]) - 1
     )
 
     mv_df_2 = mv_df.drop_duplicates(subset=["Season"], keep="last")
-
 
     return mv_df_2
 
