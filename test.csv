@@ -1,0 +1,461 @@
+Player_id,Season,Competition,Games,PPG,Goals,Assists,Yellow_cards,Yellow_red_cards,Red_cards,Penalty_goals,Minutes_per_goal,Minutes_played,Club_id,League_type
+134354,12,Beker van Belgie,1,3.0,0,0,0,0,0,0,0,18,498,pokalwettbewerb
+134354,11,JPL Playoff II,0,0.0,0,0,0,0,0,0,0,0,498,wettbewerb
+99946,22,Coupe de France,1,0.0,0,0,0,0,0,0,0,77,6639,pokalwettbewerb
+99946,21,Coupe de France,1,0.0,0,0,0,0,0,0,0,84,6639,pokalwettbewerb
+99946,19,Coupe de France,1,0.0,0,0,0,0,0,0,0,18,6639,pokalwettbewerb
+99946,13,Ligue 2,0,0.0,0,0,0,0,0,0,0,0,1095,wettbewerb
+99946,12,Championnat National,13,1.46,0,0,0,0,0,0,0,430,9902,wettbewerb
+99946,12,Coupe de France,1,3.0,2,0,0,0,0,0,45,90,9902,pokalwettbewerb
+99946,12,Coupe de la Ligue,1,3.0,0,0,0,0,0,0,0,57,1095,pokalwettbewerb
+99946,12,Ligue 1,1,0.0,0,0,0,0,0,0,0,2,1095,wettbewerb
+99946,11,Ligue 2,11,1.64,3,0,1,0,0,0,160,481,1095,wettbewerb
+99946,11,Coupe de France,2,1.5,0,0,0,0,0,0,0,104,1095,pokalwettbewerb
+99946,10,Ligue 2,12,1.0,0,0,0,0,0,0,0,208,1095,wettbewerb
+99946,10,Coupe de France,3,0.0,4,0,0,0,0,0,26,105,1095,pokalwettbewerb
+99946,09,Championnat National,1,3.0,1,0,0,0,0,0,23,23,1095,wettbewerb
+99946,08,FA Cup,0,0.0,0,0,0,0,0,0,0,0,3371,pokalwettbewerb
+76948,22,Liga de Ascenso,20,1.15,6,3,1,0,0,0,262,1571,1806,wettbewerb
+76948,21,Torneo Competencia,4,1.0,1,0,1,0,0,1,317,317,1806,wettbewerb
+76948,21,Primera División Clausura,7,0.57,0,1,0,0,0,0,0,377,1806,wettbewerb
+76948,21,Primera División Apertura,15,1.2,3,1,1,0,0,0,272,815,1806,wettbewerb
+76948,20,Segunda División Play-off,4,2.25,0,1,0,0,0,0,0,321,1806,wettbewerb
+76948,20,Liga de Ascenso,18,1.39,6,2,3,0,1,0,253,1518,1806,wettbewerb
+76948,19,Primera División Clausura,10,0.7,0,2,2,0,0,0,0,502,17428,wettbewerb
+76948,19,Primera División Apertura,10,0.8,2,0,2,0,0,1,357,713,14806,wettbewerb
+76948,19,Copa Sudamericana,2,1.5,0,0,0,0,0,0,0,106,14806,pokalwettbewerb
+76948,18,Primera División Clausura,14,1.07,3,1,1,0,0,0,391,1173,37535,wettbewerb
+76948,17,Ascenso MX Cl.,13,1.31,1,0,0,0,0,0,502,502,40188,wettbewerb
+76948,17,Copa MX Clausura,2,0.0,0,0,2,0,0,0,0,167,40188,pokalwettbewerb
+76948,17,Ascenso MX Ap.,10,1.7,4,2,0,0,0,1,217,867,40188,wettbewerb
+76948,17,Primera División Apertura,3,0.33,0,0,0,0,0,0,0,14,3829,wettbewerb
+76948,16,Stars League,13,0.77,2,0,0,0,0,0,407,813,13509,wettbewerb
+76948,15,Liguilla de Expansión Clausura,2,0.5,0,0,0,0,0,0,0,175,23505,wettbewerb
+76948,15,Ascenso MX Cl.,13,2.0,7,2,0,0,1,2,151,1058,23505,wettbewerb
+76948,15,Ascenso MX Ap.,13,1.54,6,3,1,0,0,0,189,1135,23505,wettbewerb
+76948,15,Libertadores,5,1.0,0,1,0,0,0,0,0,337,13297,pokalwettbewerb
+76948,15,Liga de Ascenso,13,1.62,1,1,2,0,0,0,1024,1024,10960,wettbewerb
+76948,14,Torneo Apertura (- 2020),13,2.15,11,1,3,0,0,1,102,1121,14682,wettbewerb
+76948,12,Liga Sagres,16,1.19,3,0,1,0,1,0,252,755,979,wettbewerb
+76948,12,Allianz Cup,3,1.33,1,0,0,0,0,0,248,248,979,pokalwettbewerb
+76948,12,Taça de Portugal,2,1.5,2,0,0,0,0,0,52,103,979,pokalwettbewerb
+76948,12,Primera División Clausura,14,1.5,6,2,2,0,0,1,152,911,2419,wettbewerb
+76948,12,Primera División Apertura,15,1.87,6,2,2,0,0,0,174,1046,2419,wettbewerb
+76948,11,Primera División Clausura,7,0.14,1,0,0,0,0,0,326,326,2419,wettbewerb
+76948,11,Primera División Apertura,10,0.8,3,0,0,1,0,0,180,541,2419,wettbewerb
+76948,10,Copa Sudamericana,1,3.0,0,0,0,0,0,0,0,9,2419,pokalwettbewerb
+76948,10,Primera División Clausura,13,0.69,3,0,4,0,0,0,348,1045,20189,wettbewerb
+76948,10,Primera División Apertura,1,1.0,0,0,0,0,0,0,0,44,2419,wettbewerb
+108372,21,LL Niederrhein-Gr. 3,3,0.67,1,0,0,0,0,0,270,270,1547,wettbewerb
+108372,19,Niederrheinpokal,0,0.0,0,0,0,0,0,0,0,0,857,pokalwettbewerb
+108372,19,Oberliga Niederrhein,4,1.0,0,0,0,0,0,0,0,48,857,wettbewerb
+108372,18,Oberliga Niederrhein,18,1.67,8,5,4,0,0,0,160,1282,954,wettbewerb
+108372,18,Niederrheinpokal,3,2.0,3,3,0,0,0,0,60,179,954,pokalwettbewerb
+108372,17,Oberliga Niederrhein,32,1.63,23,4,5,0,0,1,104,2394,954,wettbewerb
+108372,17,Niederrheinpokal,2,1.5,1,0,1,0,0,0,210,210,954,pokalwettbewerb
+108372,16,Oberliga Niederrhein,25,1.52,11,0,3,0,0,7,128,1403,954,wettbewerb
+108372,16,Niederrheinpokal,2,1.5,2,0,0,0,0,1,88,176,954,pokalwettbewerb
+108372,15,Regionalliga West,19,1.26,1,3,3,0,0,0,608,608,93,wettbewerb
+108372,15,Westfalenpokal,4,2.25,1,2,0,0,0,0,199,199,93,pokalwettbewerb
+108372,14,Regionalliga West,27,1.04,11,0,10,0,1,1,186,2044,95,wettbewerb
+108372,14,Niederrheinpokal,3,2.0,1,0,1,0,0,0,225,225,95,pokalwettbewerb
+108372,13,Regionalliga West,28,1.25,6,0,3,0,0,0,248,1490,4690,wettbewerb
+108372,12,Regionalliga West,20,1.05,1,1,2,0,0,0,578,578,4690,wettbewerb
+108372,11,RL West,11,0.64,4,0,1,0,0,0,91,362,4690,wettbewerb
+108372,10,U19-Bundesliga West,7,1.0,1,0,1,0,1,1,244,244,6675,wettbewerb
+108372,09,U19-Bundesliga West,13,1.54,5,3,3,0,0,0,196,979,6675,wettbewerb
+108372,09,DFB-Pokal der Junioren,1,0.0,0,0,0,0,0,0,0,45,6675,pokalwettbewerb
+108372,07,U17-Bundesliga West,11,0.0,2,0,0,0,0,0,357,713,23005,wettbewerb
+78820,14,Challenger Pro League,24,0.75,6,0,1,0,1,0,292,1751,9888,wettbewerb
+78820,14,Beker van Belgie,1,0.0,0,0,0,0,0,0,0,90,9888,pokalwettbewerb
+78820,13,Challenger Pro League,21,2.24,5,0,1,0,0,0,237,1187,968,wettbewerb
+78820,13,Beker van Belgie,2,1.5,0,0,0,0,0,0,0,56,968,pokalwettbewerb
+78820,12,Beker van Belgie,1,3.0,0,0,0,0,0,0,0,10,354,pokalwettbewerb
+78820,12,Jupiler Pro League,4,1.0,0,0,0,0,0,0,0,42,354,wettbewerb
+78820,11,JPL Playoff II,6,0.67,2,0,0,0,0,0,224,448,354,wettbewerb
+78820,11,Jupiler Pro League,15,1.47,3,0,2,0,0,0,171,512,354,wettbewerb
+78820,11,Beker van Belgie,1,0.0,0,0,0,0,0,0,0,7,354,pokalwettbewerb
+78820,10,Jupiler Pro League,2,1.5,0,0,0,0,0,0,0,88,968,wettbewerb
+78820,09,Jupiler Pro League playoff Europa League,1,1.0,0,0,1,0,0,0,0,85,968,wettbewerb
+78820,09,JPL Playoff II,5,1.4,1,2,1,0,0,0,339,339,968,wettbewerb
+78820,09,Jupiler Pro League,6,0.83,0,1,1,0,0,0,0,391,968,wettbewerb
+78820,09,Beker van Belgie,3,1.33,0,1,0,0,0,0,0,198,968,pokalwettbewerb
+78820,08,Jupiler Pro League,29,1.55,17,4,1,0,0,0,146,2485,968,wettbewerb
+78820,08,Beker van Belgie,2,1.5,1,0,1,0,0,0,180,180,968,pokalwettbewerb
+78820,7,Libertadores,4,1.5,1,0,0,0,0,0,143,143,2729,pokalwettbewerb
+167061,22,Championship,21,0.86,7,0,0,0,1,1,123,862,8933,wettbewerb
+167061,22,SFA Cup,2,1.5,1,0,0,0,0,0,117,117,8933,pokalwettbewerb
+167061,22,Challenge Cup,1,0.0,0,0,0,0,0,0,0,76,8933,pokalwettbewerb
+167061,22,League Cup,4,0.75,0,1,0,0,0,0,0,220,8933,pokalwettbewerb
+167061,21,League One,27,2.33,4,3,1,0,0,0,231,924,8933,wettbewerb
+167061,21,Trust Trophy,4,2.25,1,0,0,0,0,0,161,161,8933,pokalwettbewerb
+167061,21,SFA Cup,3,1.33,0,0,0,0,0,0,0,209,8933,pokalwettbewerb
+167061,21,League Cup,3,1.0,1,0,0,0,0,0,184,184,8933,pokalwettbewerb
+167061,20,Scottish Championship Play-offs,2,0.5,1,0,0,0,0,0,163,163,8933,wettbewerb
+167061,20,League One Meisterr.,4,1.25,1,1,0,0,0,0,260,260,8933,wettbewerb
+167061,20,League One,17,1.76,1,1,1,0,0,0,1303,1303,8933,wettbewerb
+167061,20,SFA Cup,2,1.5,0,0,0,0,0,0,0,32,8933,pokalwettbewerb
+167061,20,Betfred Cup,3,1.0,0,0,2,0,0,0,0,180,8933,pokalwettbewerb
+167061,19,FA Cup,1,0.0,0,0,0,0,0,0,0,6,1112,pokalwettbewerb
+167061,19,Tunnock Ch. Cup,3,2.0,2,0,0,0,0,1,126,252,1112,pokalwettbewerb
+167061,19,National League,7,1.29,1,0,0,0,0,0,151,151,1112,wettbewerb
+167061,18,League One,33,1.45,14,5,0,0,0,1,147,2060,2802,wettbewerb
+167061,18,SFA Cup,2,1.5,0,0,0,0,0,0,0,180,2802,pokalwettbewerb
+167061,18,Irn-Bru Cup,2,1.5,1,1,0,0,0,1,145,145,2802,pokalwettbewerb
+167061,18,League Cup,2,1.5,0,0,0,0,0,0,0,52,2802,pokalwettbewerb
+167061,17,Scottish Championship Play-offs,2,0.5,0,0,0,0,0,0,0,27,3021,wettbewerb
+167061,17,League One,21,1.81,8,2,3,0,0,0,126,1011,3021,wettbewerb
+167061,17,SFA Cup,2,1.5,2,0,0,0,0,0,61,121,3021,pokalwettbewerb
+167061,17,Inkasso-deild,7,0.57,1,0,2,0,0,0,570,570,21879,wettbewerb
+167061,16,Scottish League One Play-offs,4,1.0,0,0,1,0,0,0,0,156,3032,wettbewerb
+167061,16,League One,27,1.0,4,1,3,0,1,1,279,1116,3032,wettbewerb
+167061,16,SFA Cup,1,0.0,0,0,0,0,0,0,0,90,3032,pokalwettbewerb
+167061,16,Irn-Bru Cup,2,1.5,1,2,0,0,0,0,160,160,3032,pokalwettbewerb
+167061,16,League Cup,4,2.25,1,0,1,0,0,0,194,194,3032,pokalwettbewerb
+167061,15,Scottish Championship Play-offs,2,0.0,1,1,1,0,0,0,180,180,3032,wettbewerb
+167061,15,League One,31,1.68,12,4,2,0,0,0,109,1302,3032,wettbewerb
+167061,15,Petrofac Tr. Cup,5,2.4,1,0,0,0,0,0,245,245,3032,pokalwettbewerb
+167061,15,SFA Cup,1,0.0,0,0,0,0,0,0,0,75,3032,pokalwettbewerb
+167061,15,League Cup,1,0.0,0,0,0,0,0,0,0,36,3032,pokalwettbewerb
+167061,15,Scottish League Two Play Offs,2,1.5,0,0,0,0,0,0,0,94,3030,wettbewerb
+167061,14,League Two,14,0.86,2,1,0,0,1,0,493,985,3030,wettbewerb
+167061,13,League One,7,1.0,2,0,1,0,0,0,197,393,3021,wettbewerb
+167061,13,Championship,2,0.0,0,0,0,0,0,0,0,40,511,wettbewerb
+167061,12,League Two,28,1.43,7,3,5,0,0,0,251,1759,3030,wettbewerb
+167061,12,SFA Cup,1,0.0,0,0,0,0,0,0,0,90,3030,pokalwettbewerb
+167061,12,Premiership,1,0.0,0,0,0,0,0,0,0,15,511,wettbewerb
+167061,12,League Cup,1,3.0,0,0,0,0,0,0,0,120,511,pokalwettbewerb
+167061,11,Championship,18,1.5,1,1,0,0,0,0,923,923,511,wettbewerb
+167061,11,SFA Cup,1,3.0,0,0,0,0,0,0,0,54,511,pokalwettbewerb
+167061,11,League Cup,1,3.0,0,1,0,0,0,0,0,77,511,pokalwettbewerb
+167061,11,Ramsdens Cup,1,3.0,0,0,0,0,0,0,0,49,511,pokalwettbewerb
+167061,10,Championship,12,1.92,4,0,0,0,0,0,160,639,511,wettbewerb
+167061,10,SFA Cup,0,0.0,0,0,0,0,0,0,0,0,511,pokalwettbewerb
+188076,22,SFA Cup,1,0.0,0,0,0,0,0,0,0,90,22388,pokalwettbewerb
+188076,19,SFA Cup,2,0.5,0,0,0,0,0,0,0,65,22388,pokalwettbewerb
+188076,16,Irn-Bru Cup,2,1.5,1,0,0,0,0,0,153,153,8933,pokalwettbewerb
+188076,16,League Cup,3,1.0,0,0,0,0,0,0,0,138,8933,pokalwettbewerb
+188076,15,League One,3,0.0,0,0,0,0,0,0,0,106,3194,wettbewerb
+188076,15,League Cup,1,0.0,0,0,0,0,0,0,0,90,3194,pokalwettbewerb
+188076,15,Petrofac Tr. Cup,1,0.0,0,0,0,0,0,0,0,90,3194,pokalwettbewerb
+188076,14,League Two,24,1.83,3,2,1,0,0,0,227,682,3021,wettbewerb
+188076,14,SFA Cup,5,2.0,0,0,0,0,0,0,0,52,3021,pokalwettbewerb
+188076,14,League Cup,1,0.0,1,0,0,0,0,0,14,14,3021,pokalwettbewerb
+188076,14,Petrofac Tr. Cup,1,0.0,0,0,0,0,0,0,0,23,3021,pokalwettbewerb
+188076,13,League Two,8,1.5,0,0,0,0,0,0,0,111,3032,wettbewerb
+188076,13,SFA Cup,0,0.0,0,0,0,0,0,0,0,0,3032,pokalwettbewerb
+188076,13,Ramsdens Cup,1,0.0,0,0,1,0,0,0,0,41,3032,pokalwettbewerb
+188076,13,League Cup,1,0.0,0,0,0,0,0,0,0,11,3032,pokalwettbewerb
+188076,12,Premiership,0,0.0,0,0,0,0,0,0,0,0,511,wettbewerb
+12840,14,League Two,0,0.0,0,0,0,0,0,0,0,0,3030,wettbewerb
+12840,13,League One,11,0.91,1,2,0,0,0,0,611,611,3021,wettbewerb
+12840,13,SFA Cup,1,0.0,0,0,0,0,0,0,0,90,3021,pokalwettbewerb
+12840,13,League Cup,1,0.0,0,0,0,0,0,0,0,90,3021,pokalwettbewerb
+12840,13,Ramsdens Cup,1,0.0,2,0,0,0,0,0,60,120,3021,pokalwettbewerb
+12840,12,Premiership,14,1.07,1,0,0,0,0,0,884,884,511,wettbewerb
+12840,12,SFA Cup,3,2.0,1,1,0,0,0,0,135,135,511,pokalwettbewerb
+12840,12,League Cup,1,0.0,1,0,0,0,0,0,63,63,511,pokalwettbewerb
+12840,11,Championship,31,1.48,12,4,1,0,0,1,210,2517,511,wettbewerb
+12840,11,SFA Cup,3,1.33,2,0,0,0,0,0,135,269,511,pokalwettbewerb
+12840,11,League Cup,2,1.5,2,0,1,0,0,0,90,180,511,pokalwettbewerb
+12840,11,Ramsdens Cup,1,3.0,1,0,0,0,0,0,120,120,511,pokalwettbewerb
+12840,10,Championship,13,1.23,1,1,1,0,0,0,996,996,2759,wettbewerb
+12840,10,ALBA Chal. Cup,1,3.0,0,0,0,0,0,0,0,3,2759,pokalwettbewerb
+12840,10,Premiership,2,0.0,0,0,0,0,0,0,0,85,2578,wettbewerb
+12840,09,Premiership,16,1.44,1,1,1,0,0,0,924,924,2578,wettbewerb
+12840,09,SFA Cup,2,1.5,0,0,0,0,0,0,0,129,2578,pokalwettbewerb
+12840,09,League Cup,4,2.25,3,1,0,0,0,0,81,244,2578,pokalwettbewerb
+12840,08,Championship,32,1.84,14,3,0,0,0,0,172,2410,2578,wettbewerb
+12840,08,SFA Cup,1,0.0,0,0,0,0,0,0,0,4,2578,pokalwettbewerb
+12840,08,League Cup,1,3.0,1,0,0,0,0,0,25,25,2578,pokalwettbewerb
+12840,08,ALBA Chal. Cup,1,0.0,0,0,0,0,0,0,0,18,2578,pokalwettbewerb
+12840,07,Championship,23,1.7,7,0,0,0,0,0,236,1654,2578,wettbewerb
+12840,06,Championship,23,1.61,8,0,0,0,0,0,171,1364,2578,wettbewerb
+12840,04,Championship,12,1.17,0,1,0,0,0,0,0,191,2262,wettbewerb
+12840,04,League Cup,1,0.0,0,0,0,0,0,0,0,39,2262,pokalwettbewerb
+12840,03,Premiership,20,1.4,8,3,1,0,0,0,169,1349,511,wettbewerb
+12840,02,Scottish Premiership Top Six Split,4,0.5,0,0,0,0,0,0,0,182,511,wettbewerb
+12840,02,Premiership,20,1.4,5,0,1,0,0,0,179,893,511,wettbewerb
+12840,01,Premiership,26,1.08,2,0,2,0,0,0,640,1280,511,wettbewerb
+12840,01,Premiership Relegation,4,1.75,3,0,0,0,0,0,98,293,511,wettbewerb
+12840,01,UI Cup,2,0.5,0,0,0,0,0,0,0,52,511,pokalwettbewerb
+12840,00,Premiership,9,0.89,0,0,0,0,0,0,0,193,511,wettbewerb
+126278,13,Football League North,8,1.63,0,0,0,0,0,0,0,282,4585,wettbewerb
+126278,13,Bayernliga Süd,9,1.11,4,0,0,0,0,0,129,516,5137,wettbewerb
+126278,13,3. Liga,5,0.0,0,0,1,0,0,0,0,140,110,wettbewerb
+126278,12,Super League,7,0.14,0,0,1,0,0,0,0,91,5219,wettbewerb
+126278,12,Kypello Elladas,3,1.33,2,0,0,0,0,0,72,143,5219,pokalwettbewerb
+126278,11,Football League,10,1.4,0,0,2,0,0,0,0,306,7185,wettbewerb
+126278,10,Football League,18,1.39,2,0,3,0,0,0,352,703,7185,wettbewerb
+126278,10,Kypello Elladas,1,0.0,1,0,0,0,0,1,90,90,7185,pokalwettbewerb
+126278,09,Super League,4,1.0,0,0,1,0,0,0,0,109,169,wettbewerb
+139735,21,Kypello Elladas,1,0.0,0,0,0,0,0,0,0,90,71732,pokalwettbewerb
+139735,20,Football League,14,1.29,3,0,2,0,0,0,194,583,38541,wettbewerb
+139735,17,G' Ethniki Play-off,6,1.0,1,0,1,0,0,0,266,266,2670,wettbewerb
+139735,17,Football League,1,0.0,0,0,0,0,0,0,0,26,1837,wettbewerb
+139735,17,Kypello Elladas,2,1.5,0,0,1,0,0,0,0,139,1837,pokalwettbewerb
+139735,16,Football League,30,1.43,7,1,3,0,0,0,193,1349,3386,wettbewerb
+139735,16,Kypello Elladas,3,1.33,0,0,0,0,0,0,0,179,3386,pokalwettbewerb
+139735,15,Football League,25,1.16,7,1,8,1,0,1,288,2016,7646,wettbewerb
+139735,15,Kypello Elladas,4,1.0,2,0,0,0,0,0,161,321,7646,pokalwettbewerb
+139735,14,Football League North,6,0.83,0,0,1,0,0,0,0,241,3392,wettbewerb
+139735,14,Kypello Elladas,2,1.5,0,0,0,0,0,0,0,166,3392,pokalwettbewerb
+139735,13,FL Play-off,12,1.25,2,0,2,0,0,0,411,822,35415,wettbewerb
+139735,13,Football League North,12,2.5,3,2,3,0,0,0,322,966,35415,wettbewerb
+139735,13,Kypello Elladas,2,1.5,0,1,1,0,0,0,0,174,35415,pokalwettbewerb
+139735,13,Football League South,4,2.5,0,0,0,0,0,0,0,161,4602,wettbewerb
+139735,13,Kypello Elladas,1,1.0,0,0,0,0,0,0,0,63,4602,pokalwettbewerb
+139735,12,Super League,12,0.67,3,1,3,0,0,0,306,918,5219,wettbewerb
+139735,12,Kypello Elladas,1,0.0,0,0,0,0,0,0,0,90,5219,pokalwettbewerb
+139735,12,Super League,8,1.13,1,1,2,2,0,0,308,308,605,wettbewerb
+139735,11,Football League,26,1.31,9,1,3,0,1,3,221,1992,24773,wettbewerb
+139735,11,Kypello Elladas,2,1.5,2,0,0,0,0,0,66,132,24773,pokalwettbewerb
+139735,08,Kypello Elladas,2,1.5,1,0,0,0,0,0,240,240,21602,pokalwettbewerb
+39049,22,MLS Cup Playoffs,2,1.5,0,0,1,0,0,0,0,180,4078,pokalwettbewerb
+39049,22,MLS,32,1.91,9,7,1,0,0,0,172,1550,4078,wettbewerb
+39049,22,Canadian Championship,2,1.5,0,1,0,0,0,0,0,134,4078,pokalwettbewerb
+39049,21,CONCACAF Champions League,3,1.33,0,0,0,0,0,0,0,83,4078,pokalwettbewerb
+39049,21,Veikkausliiga Championship Group,5,0.4,0,0,1,0,0,0,0,450,20924,wettbewerb
+39049,21,Veikkausliiga,9,1.44,5,2,0,0,0,0,158,788,20924,wettbewerb
+39049,20,MLS Cup Playoffs,2,1.5,0,0,0,0,0,0,0,43,56089,pokalwettbewerb
+39049,20,MLS,7,1.43,1,0,0,0,0,1,458,458,56089,wettbewerb
+39049,20,MLS,6,1.5,2,0,0,0,0,0,162,324,1247,wettbewerb
+39049,20,MLS is Back,3,0.33,1,1,1,0,0,0,197,197,1247,pokalwettbewerb
+39049,19,MLS,29,1.1,14,1,5,0,1,4,182,2541,1247,wettbewerb
+39049,18,MLS,28,1.5,14,5,5,0,1,3,155,2167,6321,wettbewerb
+39049,18,Canadian Championship,3,1.33,3,0,0,0,0,2,70,209,6321,pokalwettbewerb
+39049,17,MLS,31,1.42,12,4,4,0,0,0,197,2366,626,wettbewerb
+39049,17,US Open Cup,2,1.5,0,0,0,0,0,0,0,113,626,pokalwettbewerb
+39049,16,MLS,21,1.24,7,2,5,0,0,0,267,1870,626,wettbewerb
+39049,16,US Open Cup,5,2.4,2,2,1,0,0,1,151,301,626,pokalwettbewerb
+39049,16,MLS,9,1.0,5,0,0,0,0,1,158,790,813,wettbewerb
+39049,15,MLS Cup Playoffs,5,1.2,4,0,0,0,0,0,120,480,813,pokalwettbewerb
+39049,15,MLS,32,1.56,22,6,6,0,0,0,126,2765,813,wettbewerb
+39049,13,Championship,25,1.0,4,2,3,0,0,0,379,1517,641,wettbewerb
+39049,13,U21 PL,1,3.0,2,0,0,0,0,0,45,90,9256,wettbewerb
+39049,13,MLS,15,1.67,7,1,0,0,0,1,146,1022,4284,wettbewerb
+39049,13,US Open Cup,1,3.0,1,0,0,0,0,0,70,70,4284,pokalwettbewerb
+39049,12,Premier League,11,0.91,1,1,0,0,0,0,657,657,1123,wettbewerb
+39049,12,U21 PL Qualificationsgr. 2,1,0.0,0,0,0,0,0,0,0,45,33614,wettbewerb
+39049,12,MLS Cup Playoffs,2,1.5,0,0,1,0,0,0,0,180,4284,pokalwettbewerb
+39049,12,MLS,33,1.82,11,7,3,0,0,2,261,2871,4284,wettbewerb
+39049,12,US Open Cup,2,3.0,1,0,0,0,0,1,210,210,4284,pokalwettbewerb
+39049,11,MLS Cup Playoffs,3,2.0,0,0,0,0,0,0,0,269,4284,pokalwettbewerb
+39049,11,MLS,30,1.6,9,4,1,0,0,2,245,2201,4284,wettbewerb
+39049,11,US Open Cup,1,0.0,0,0,0,0,0,0,0,90,4284,pokalwettbewerb
+39049,10,MLS,29,1.31,10,4,4,0,0,0,242,2416,4284,wettbewerb
+39049,09,CONCACAF Champions League,1,1.0,1,0,0,0,0,0,90,90,9168,pokalwettbewerb
+39049,9,MLS,6,1.0,1,0,1,0,0,0,396,396,4284,wettbewerb
+39049,9,MLS,22,1.64,5,1,3,0,0,0,358,1791,9168,wettbewerb
+39049,9,US Open Cup,3,2.0,0,0,0,0,0,0,0,93,9168,pokalwettbewerb
+39049,08,CONCACAF Champions League,7,1.0,2,0,3,0,0,1,274,547,9168,pokalwettbewerb
+39049,08,North American SuperLiga,2,1.5,1,0,0,0,0,0,70,70,9168,pokalwettbewerb
+39049,8,MLS Cup Playoffs,2,0.5,1,0,0,0,0,0,78,78,9168,pokalwettbewerb
+39049,8,MLS,10,2.3,2,1,1,0,1,0,277,554,9168,wettbewerb
+39049,8,MLS,12,0.83,2,0,2,0,0,0,499,997,218,wettbewerb
+39049,7,MLS,17,1.29,2,0,0,0,0,0,231,461,813,wettbewerb
+39049,6,MLS,19,1.16,3,1,1,0,0,0,310,929,813,wettbewerb
+46154,22,Championship,3,0.0,1,0,0,0,0,0,206,206,1039,wettbewerb
+46154,22,Championship,17,1.0,1,0,1,0,0,0,497,497,698,wettbewerb
+46154,22,EFL Cup,2,1.5,0,0,0,0,0,0,0,160,698,pokalwettbewerb
+46154,21,Championship,45,1.22,12,6,5,0,0,1,319,3824,698,wettbewerb
+46154,21,FA Cup,1,0.0,0,0,0,0,0,0,0,89,698,pokalwettbewerb
+46154,20,Championship,26,1.5,2,5,2,0,0,0,921,1841,698,wettbewerb
+46154,20,FA Cup,2,3.0,1,0,0,0,0,0,104,104,698,pokalwettbewerb
+46154,20,EFL Cup,2,1.5,1,0,0,0,0,0,96,96,698,pokalwettbewerb
+46154,19,Championship,35,1.29,11,6,2,0,0,2,190,2092,22,wettbewerb
+46154,19,FA Cup,3,2.33,1,1,0,0,0,0,264,264,22,pokalwettbewerb
+46154,19,Premier League 2,2,2.0,1,0,0,0,0,0,180,180,39337,wettbewerb
+46154,18,Championship,30,1.47,2,4,3,0,0,0,701,1401,3008,wettbewerb
+46154,18,FA Cup,1,0.0,0,0,0,0,0,0,0,90,3008,pokalwettbewerb
+46154,18,Premier League 2,3,1.67,1,0,1,0,0,0,270,270,39337,wettbewerb
+46154,17,Championship,10,0.8,1,1,1,0,0,0,424,424,1032,wettbewerb
+46154,17,Championship,23,1.91,1,0,1,0,0,0,833,833,22,wettbewerb
+46154,17,FA Cup,0,0.0,0,0,0,0,0,0,0,0,22,pokalwettbewerb
+46154,17,EFL Cup,2,1.5,0,1,0,0,0,0,0,180,22,pokalwettbewerb
+46154,16,Championship Play-Offs,2,0.5,0,0,0,0,0,0,0,78,931,wettbewerb
+46154,16,Championship,31,1.74,10,3,5,0,1,2,235,2353,931,wettbewerb
+46154,16,FA Cup,1,3.0,1,1,0,0,0,0,83,83,931,pokalwettbewerb
+46154,16,Championship,5,1.0,0,0,0,0,0,0,0,301,22,wettbewerb
+46154,16,EFL Cup,1,3.0,0,0,0,0,0,0,0,71,22,pokalwettbewerb
+46154,15,Championship Play-Offs,2,1.5,0,0,0,0,0,0,0,180,22,wettbewerb
+46154,15,Championship,45,1.67,15,10,5,0,0,1,252,3778,22,wettbewerb
+46154,15,FA Cup,1,0.0,0,1,0,0,0,0,0,90,22,pokalwettbewerb
+46154,15,League Cup,1,0.0,0,0,0,0,0,0,0,30,22,pokalwettbewerb
+46154,14,Championship,35,1.83,18,5,4,0,0,3,157,2823,22,wettbewerb
+46154,14,FA Cup,2,3.0,1,0,0,0,0,1,97,97,22,pokalwettbewerb
+46154,14,League Cup,5,2.4,2,3,1,0,0,1,159,317,22,pokalwettbewerb
+46154,13,Championship Play-Offs,3,2.0,2,1,0,0,0,1,135,270,22,wettbewerb
+46154,13,Championship,44,1.91,20,8,7,1,0,4,189,3789,22,wettbewerb
+46154,13,FA Cup,1,0.0,0,0,0,0,0,0,0,90,22,pokalwettbewerb
+46154,13,League Cup,3,2.0,3,0,1,0,0,0,61,182,22,pokalwettbewerb
+46154,12,Championship,13,1.31,2,2,1,0,0,0,538,1076,22,wettbewerb
+46154,12,League One,12,1.83,1,1,3,0,0,1,633,633,352,wettbewerb
+46154,12,League Cup,2,3.0,0,0,0,0,0,0,0,161,1123,pokalwettbewerb
+46154,12,U21 PL,2,2.0,0,0,0,0,0,0,0,180,33614,wettbewerb
+46154,12,Premier League,1,1.0,0,0,0,0,0,0,0,3,1123,wettbewerb
+46154,11,Championship,26,1.04,7,1,3,0,0,1,252,1763,873,wettbewerb
+46154,11,League Cup,2,1.5,0,0,0,0,0,0,0,153,873,pokalwettbewerb
+46154,11,Reserve League,5,1.2,0,2,0,0,0,0,0,450,33614,wettbewerb
+46154,11,Premier League,4,0.25,0,0,0,0,0,0,0,240,1123,wettbewerb
+46154,10,Championship,30,1.7,4,4,2,0,0,0,507,2029,1123,wettbewerb
+46154,10,FA Cup,1,0.0,0,0,0,0,0,0,0,72,1123,pokalwettbewerb
+46154,10,League Cup,1,3.0,2,0,0,0,0,0,45,90,1123,pokalwettbewerb
+46154,09,League One,42,2.07,17,9,6,0,0,0,190,3230,1123,wettbewerb
+46154,09,EFL Trophy,3,2.0,2,0,1,0,0,0,121,242,1123,pokalwettbewerb
+46154,09,FA Cup,2,1.5,4,0,0,0,0,0,40,161,1123,pokalwettbewerb
+46154,09,League Cup,1,0.0,0,0,0,0,0,0,0,30,1123,pokalwettbewerb
+46154,08,League Two,40,1.33,11,7,7,0,1,0,308,3390,1031,wettbewerb
+46154,08,EFL Trophy,6,2.67,2,0,2,0,0,0,248,495,1031,pokalwettbewerb
+46154,08,FA Cup,2,0.0,0,0,0,0,0,0,0,180,1031,pokalwettbewerb
+46154,08,League Cup,2,1.5,0,1,1,0,0,0,0,169,1031,pokalwettbewerb
+46154,07,Championship,7,0.14,0,0,0,0,0,0,0,315,1123,wettbewerb
+46154,07,FA Cup,1,1.0,0,0,0,0,0,0,0,45,1123,pokalwettbewerb
+46154,07,League Cup,2,3.0,0,0,0,0,0,0,0,137,1123,pokalwettbewerb
+46154,06,Championship,18,1.28,4,1,1,0,0,0,302,1208,1123,wettbewerb
+46154,06,FA Cup,2,1.5,1,0,0,0,0,0,70,70,1123,pokalwettbewerb
+46154,06,League Cup,0,0.0,0,0,0,0,0,0,0,0,1123,pokalwettbewerb
+104725,19,League One,7,1.29,0,0,0,0,0,0,0,440,3054,wettbewerb
+104725,19,EFL Trophy,1,0.0,0,0,0,0,0,0,0,6,3054,pokalwettbewerb
+104725,19,EFL Cup,1,0.0,0,0,0,0,0,0,0,78,3054,pokalwettbewerb
+104725,18,Championship,41,0.85,1,6,3,0,0,0,1972,1972,1028,wettbewerb
+104725,18,FA Cup,3,2.0,0,0,0,0,0,0,0,58,1028,pokalwettbewerb
+104725,18,EFL Cup,0,0.0,0,0,0,0,0,0,0,0,1028,pokalwettbewerb
+104725,17,Championship,44,1.61,5,9,5,0,0,0,690,3448,1028,wettbewerb
+104725,17,FA Cup,3,1.33,0,2,0,0,0,0,0,130,1028,pokalwettbewerb
+104725,17,EFL Cup,1,0.0,0,0,0,0,0,0,0,54,1028,pokalwettbewerb
+104725,16,League One Play-Offs,3,2.33,3,1,1,0,0,0,90,270,1028,wettbewerb
+104725,16,League One,38,1.61,11,8,8,0,0,1,291,3206,1028,wettbewerb
+104725,16,FA Cup,5,2.4,2,1,0,0,0,0,186,371,1028,pokalwettbewerb
+104725,16,EFL Trophy,2,3.0,2,0,1,0,0,1,34,67,1028,pokalwettbewerb
+104725,16,EFL Cup,2,1.5,1,0,0,0,0,0,110,110,1028,pokalwettbewerb
+104725,15,League One Play-Offs,3,1.33,1,2,0,0,0,0,270,270,1028,wettbewerb
+104725,15,League One,46,1.76,15,10,6,0,0,1,263,3944,1028,wettbewerb
+104725,15,FL Trophy,5,2.4,1,2,0,0,0,0,431,431,1028,pokalwettbewerb
+104725,15,FA Cup,2,1.5,1,1,0,0,0,0,180,180,1028,pokalwettbewerb
+104725,15,League Cup,1,0.0,1,0,0,0,0,0,120,120,1028,pokalwettbewerb
+104725,14,Championship,26,1.42,2,2,1,0,0,0,782,1564,399,wettbewerb
+104725,13,Championship,41,1.05,8,3,5,0,0,0,333,2663,1028,wettbewerb
+104725,13,FA Cup,1,0.0,0,1,0,0,0,0,0,90,1028,pokalwettbewerb
+104725,12,Championship,15,1.13,3,0,0,0,0,0,353,1060,399,wettbewerb
+104725,12,FA Cup,1,0.0,0,0,0,0,0,0,0,44,399,pokalwettbewerb
+104725,12,Premier League,19,1.16,1,0,0,0,0,0,467,467,1123,wettbewerb
+104725,12,League Cup,3,2.0,1,0,0,0,0,0,250,250,1123,pokalwettbewerb
+104725,11,Premier League,34,1.32,9,4,1,0,0,0,233,2099,1123,wettbewerb
+104725,11,FA Cup,2,1.5,1,0,0,0,0,0,81,81,1123,pokalwettbewerb
+104725,11,League Cup,1,0.0,0,0,0,0,0,0,0,27,1123,pokalwettbewerb
+104725,10,Championship,40,1.35,15,8,9,0,1,1,230,3443,1028,wettbewerb
+104725,10,FA Cup,1,0.0,0,0,0,0,0,0,0,90,1028,pokalwettbewerb
+104725,10,League Cup,2,1.5,2,0,0,0,0,1,90,180,1028,pokalwettbewerb
+104725,09,League One Play-Offs,3,2.33,1,0,0,0,0,0,270,270,1028,wettbewerb
+104725,09,League One,43,1.93,20,9,8,0,0,2,170,3400,1028,wettbewerb
+104725,09,FA Cup,5,1.6,2,2,2,0,0,0,218,436,1028,pokalwettbewerb
+104725,09,League Cup,1,3.0,0,0,0,0,0,0,0,90,1028,pokalwettbewerb
+104725,08,FA Cup,1,0.0,0,0,0,0,0,0,0,90,3684,pokalwettbewerb
+104725,04,League Two,4,0.5,1,0,0,0,0,0,150,150,1302,wettbewerb
+104725,04,League Cup,2,1.5,0,0,0,0,0,0,0,40,1302,pokalwettbewerb
+104725,02,Second Division,13,0.62,1,0,0,0,0,0,442,442,1302,wettbewerb
+104725,01,Second Division,1,1.0,0,0,0,0,0,0,0,6,1302,wettbewerb
+30471,20,League Two Play-Offs,2,0.5,1,0,2,0,0,0,170,170,1074,wettbewerb
+30471,20,League Two,29,1.79,18,2,9,0,0,5,131,2350,1074,wettbewerb
+30471,20,EFL Trophy,3,3.0,2,0,1,0,0,0,48,95,1074,pokalwettbewerb
+30471,20,FA Cup,3,2.0,0,0,0,0,0,0,0,270,1074,pokalwettbewerb
+30471,20,EFL Cup,1,0.0,1,0,0,0,0,0,90,90,1074,pokalwettbewerb
+30471,19,League One,8,1.25,3,0,2,0,0,0,201,603,1074,wettbewerb
+30471,19,League Two,25,1.64,10,1,10,0,0,4,204,2043,1027,wettbewerb
+30471,19,FA Cup,2,0.5,0,0,0,0,0,0,0,147,1027,pokalwettbewerb
+30471,18,League One Play-Offs,1,1.0,0,0,1,0,0,0,0,22,1020,wettbewerb
+30471,18,League One,10,1.4,0,0,1,0,0,0,0,287,1020,wettbewerb
+30471,18,EFL Trophy,0,0.0,0,0,0,0,0,0,0,0,1020,pokalwettbewerb
+30471,18,Championship,19,1.11,2,0,3,0,0,1,269,538,1071,wettbewerb
+30471,18,FA Cup,0,0.0,0,0,0,0,0,0,0,0,1071,pokalwettbewerb
+30471,18,EFL Cup,1,0.0,1,0,0,0,0,0,90,90,1071,pokalwettbewerb
+30471,17,League One,19,1.89,3,0,3,0,0,0,301,902,1071,wettbewerb
+30471,17,FA Cup,1,0.0,0,0,0,0,0,0,0,16,289,pokalwettbewerb
+30471,17,Championship,23,0.91,2,1,4,0,0,0,674,1347,289,wettbewerb
+30471,17,EFL Cup,3,2.0,0,0,1,0,0,0,0,153,289,pokalwettbewerb
+30471,16,League One,37,0.97,24,2,6,1,0,3,128,3067,2413,wettbewerb
+30471,16,FA Cup,2,0.5,0,0,1,0,0,0,0,180,2413,pokalwettbewerb
+30471,16,EFL Trophy,1,0.0,0,0,0,0,0,0,0,67,2413,pokalwettbewerb
+30471,16,EFL Cup,1,0.0,0,0,0,0,0,0,0,120,337,pokalwettbewerb
+30471,16,Championship,0,0.0,0,0,0,0,0,0,0,0,337,wettbewerb
+30471,15,Championship,15,1.2,0,1,3,0,0,0,0,565,337,wettbewerb
+30471,15,FA Cup,1,0.0,0,0,0,0,0,0,0,90,337,pokalwettbewerb
+30471,15,Championship,4,0.75,0,0,0,0,1,0,0,72,1110,wettbewerb
+30471,14,Championship,26,1.27,7,2,6,1,0,1,259,1816,1110,wettbewerb
+30471,14,FA Cup,1,0.0,0,0,0,0,0,0,0,90,1110,pokalwettbewerb
+30471,14,League Cup,1,0.0,0,0,0,0,0,0,0,29,1110,pokalwettbewerb
+30471,13,Championship,23,1.22,10,2,3,0,1,2,181,1807,1110,wettbewerb
+30471,13,FA Cup,1,0.0,0,0,0,0,0,0,0,90,1110,pokalwettbewerb
+30471,13,League Cup,2,3.0,2,0,0,0,0,0,77,153,1110,pokalwettbewerb
+30471,12,Championship,33,1.39,14,3,10,0,0,0,190,2660,1110,wettbewerb
+30471,12,FA Cup,4,1.75,0,0,2,0,0,0,0,244,1110,pokalwettbewerb
+30471,12,Premier League,0,0.0,0,0,0,0,0,0,0,0,1123,wettbewerb
+30471,11,Premier League,5,1.2,0,0,1,0,0,0,0,148,1123,wettbewerb
+30471,11,FA Cup,1,0.0,0,0,0,0,0,0,0,28,1123,pokalwettbewerb
+30471,11,Reserve League,2,0.5,2,0,0,0,0,0,76,151,33614,wettbewerb
+30471,10,Championship,30,1.23,9,3,9,0,1,2,251,2257,873,wettbewerb
+30471,10,Premier League,1,1.0,0,0,0,0,0,0,0,17,29,wettbewerb
+30471,10,Reserve League,1,1.0,0,0,0,0,0,0,0,90,9261,wettbewerb
+30471,09,Championship Play-Offs,0,0.0,0,0,0,0,0,0,0,0,1003,wettbewerb
+30471,09,Championship,8,2.25,1,1,1,0,0,0,326,326,1003,wettbewerb
+30471,09,Reserve League North,2,1.5,1,0,0,0,0,0,149,149,9261,wettbewerb
+30471,09,Premier League,8,1.88,1,0,0,0,0,0,56,56,29,wettbewerb
+30471,09,Europa League,0,0.0,0,0,0,0,0,0,0,0,29,pokalwettbewerb
+30471,09,FA Cup,2,1.5,1,0,0,0,0,0,107,107,29,pokalwettbewerb
+30471,09,Championship,2,1.5,0,0,0,0,0,0,0,154,22,wettbewerb
+30471,09,Europa League Qualifying,1,3.0,0,0,0,0,0,0,0,8,29,pokalwettbewerb
+30471,08,FA Cup,2,1.5,0,0,0,0,0,0,0,31,29,pokalwettbewerb
+30471,08,Premier League,13,1.69,0,1,0,0,0,0,0,188,29,wettbewerb
+30471,08,League Cup,1,0.0,0,0,1,0,0,0,0,83,29,pokalwettbewerb
+30471,08,UEFA Cup,1,1.0,0,0,0,0,0,0,0,26,29,pokalwettbewerb
+30471,07,Premier League,8,2.5,1,0,0,0,0,0,137,137,29,wettbewerb
+30471,07,UEFA Cup,3,2.33,1,0,0,0,0,0,121,121,29,pokalwettbewerb
+30471,07,League Cup,2,1.5,0,0,0,0,0,0,0,61,29,pokalwettbewerb
+30471,07,FA Cup,1,0.0,0,0,0,0,0,0,0,64,29,pokalwettbewerb
+30471,06,Premier League,14,1.43,4,1,5,0,0,0,163,652,29,wettbewerb
+30471,06,FA Cup,1,0.0,0,0,0,0,0,0,0,12,29,pokalwettbewerb
+30471,05,Premier League,1,0.0,0,0,0,0,0,0,0,13,29,wettbewerb
+30471,05,Champions League Qu.,0,0.0,0,0,0,0,0,0,0,0,29,pokalwettbewerb
+30471,04,Premier League,2,1.5,1,0,0,0,0,0,26,26,29,wettbewerb
+30471,04,FA Cup,0,0.0,0,0,0,0,0,0,0,0,29,pokalwettbewerb
+3666,12,Premier League,11,0.73,0,1,2,0,0,0,0,708,1032,wettbewerb
+3666,12,League Cup,1,0.0,1,0,0,0,0,0,90,90,1032,pokalwettbewerb
+3666,12,U21 PL,1,0.0,0,0,0,0,0,0,0,74,36123,wettbewerb
+3666,11,Championship,17,2.59,6,5,2,0,1,0,239,1433,1032,wettbewerb
+3666,11,Premier League,10,0.5,0,1,2,0,0,0,0,466,164,wettbewerb
+3666,11,League Cup,2,1.5,1,0,0,0,0,1,100,100,164,pokalwettbewerb
+3666,10,Premier League,25,1.12,5,4,2,0,0,0,297,1483,164,wettbewerb
+3666,10,FA Cup,2,1.5,0,0,0,0,0,0,0,129,164,pokalwettbewerb
+3666,10,Reserve League,4,0.5,3,1,0,0,0,1,104,311,9258,wettbewerb
+3666,09,Premier League,29,1.45,5,2,1,0,0,0,310,1551,164,wettbewerb
+3666,09,League Cup,2,3.0,0,0,0,0,0,0,0,114,164,pokalwettbewerb
+3666,08,Premier League,26,1.31,7,5,4,0,1,0,247,1732,164,wettbewerb
+3666,08,FA Cup,4,1.75,0,0,0,0,0,0,0,319,164,pokalwettbewerb
+3666,08,League Cup,0,0.0,0,0,0,0,0,0,0,0,164,pokalwettbewerb
+3666,07,Premier League,26,1.31,3,7,2,0,0,0,418,1255,164,wettbewerb
+3666,07,League Cup,1,3.0,0,0,0,0,0,0,0,54,164,pokalwettbewerb
+3666,07,UEFA-Cup Qualifikation,2,3.0,1,0,0,0,0,0,155,155,164,pokalwettbewerb
+3666,07,UI Cup,2,3.0,1,0,0,0,0,0,147,147,164,pokalwettbewerb
+3666,06,Premier League,18,1.39,4,1,2,1,0,0,257,1026,164,wettbewerb
+3666,06,FA Cup,3,1.33,1,0,0,0,0,0,131,131,164,pokalwettbewerb
+3666,06,UEFA Cup,3,1.33,0,0,0,0,0,0,0,89,164,pokalwettbewerb
+3666,06,League Cup,1,0.0,0,0,0,0,0,0,0,34,164,pokalwettbewerb
+3666,05,Premier League,34,1.35,8,3,4,0,1,1,376,3011,1071,wettbewerb
+3666,05,League Cup,6,2.0,4,0,0,0,0,0,111,443,1071,pokalwettbewerb
+3666,05,FA Cup,3,1.33,2,0,0,0,0,0,85,169,1071,pokalwettbewerb
+3666,04,Championship,45,1.93,21,8,9,0,0,2,190,3995,1071,wettbewerb
+3666,04,FA Cup,1,0.0,0,0,1,0,0,0,0,90,1071,pokalwettbewerb
+3666,03,First Division,14,1.86,8,1,2,1,1,0,148,1187,1071,wettbewerb
+3666,03,Premier League,10,0.4,1,0,0,0,0,0,480,480,1020,wettbewerb
+3666,03,League Cup,2,3.0,3,0,0,0,0,0,70,210,1020,pokalwettbewerb
+3666,02,Premier League,32,0.75,3,0,4,0,0,0,909,2726,984,wettbewerb
+3666,02,FA Cup,2,1.5,0,0,1,0,0,0,0,112,984,pokalwettbewerb
+3666,01,First Division,14,1.79,7,0,3,0,0,0,146,1023,984,wettbewerb
+3666,01,FA Cup,1,3.0,0,0,0,0,0,0,0,90,984,pokalwettbewerb
+3666,00,First Division,43,1.58,14,0,8,0,0,0,213,2978,984,wettbewerb
+3666,00,FA Cup,1,0.0,0,0,0,0,0,0,0,90,984,pokalwettbewerb
+3666,00,League Cup,2,2.0,2,0,0,0,0,0,59,118,984,pokalwettbewerb
+3666,99,Second Division,41,1.76,22,0,11,0,0,0,165,3632,2455,wettbewerb
+3666,99,League Cup,2,0.0,0,0,1,0,0,0,0,180,2455,pokalwettbewerb
+3666,98,Second Division,13,1.23,2,0,4,0,2,0,468,935,2455,wettbewerb
